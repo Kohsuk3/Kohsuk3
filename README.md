@@ -44,9 +44,7 @@ me.say_hi()
 
 ## 📊 GitHub Analytics
 
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
+![Kohsuk3's GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=Kohsuk3&theme=tokyo-night&bg_color=0d1117&color=36bcf7&line=36bcf7&point=ffffff&area=true&hide_border=true)
 
 </div>
 
