@@ -44,7 +44,7 @@ me.say_hi()
 
 ## 📊 GitHub Analytics
 
-![Kohsuk3's GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=Kohsuk3&theme=tokyo-night&bg_color=0d1117&color=36bcf7&line=36bcf7&point=ffffff&area=true&hide_border=true)
+![Profile Details Card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kohsuk3&theme=tokyonight)
 
 </div>
 
