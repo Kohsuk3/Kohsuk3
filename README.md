@@ -103,32 +103,6 @@ me.say_hi()
 
 </div>
 
-## 🌟 Featured Projects
-
-<div align="center">
-
-### 🎨 Project Showcase
-
-<a href="https://github.com/Kohsuk3/project1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kohsuk3&repo=project1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=FFFFFF&icon_color=36BCF7" />
-</a>
-
-<a href="https://github.com/Kohsuk3/project2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kohsuk3&repo=project2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=FFFFFF&icon_color=36BCF7" />
-</a>
-
-</div>
-
-## 🔥 Recent Activity
-
-<div align="center">
-
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
-</div>
-
 ## 🏆 GitHub Trophies
 
 <div align="center">
@@ -136,85 +110,6 @@ me.say_hi()
 <img src="https://github-profile-trophy.vercel.app/?username=Kohsuk3&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4"/>
 
 </div>
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Kohsuk3&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=FFFFFF&icon_color=36BCF7&layout=compact"/>
-
-</div>
-
-## 🎵 Now Playing
-
-<div align="center">
-
-[![Spotify](https://github-readme-spotify-kohsuk3.vercel.app/api/spotify)](https://open.spotify.com/user/your-spotify-id)
-
-</div>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kohsuk3/Kohsuk3/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kohsuk3/Kohsuk3/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Kohsuk3/Kohsuk3/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
-## 🎯 Current Focus
-
-<div align="center">
-
-```mermaid
-graph TD
-    A[🤖 AI Engineering] --> B[🧠 Large Language Models]
-    A --> C[🔍 Computer Vision]
-    A --> D[📊 MLOps & AutoML]
-    
-    E[☁️ Cloud Architecture] --> F[🐳 Containerization]
-    E --> G[📈 Scalable Systems]
-    E --> H[🔐 Security & Compliance]
-    
-    I[🌐 Full-Stack Development] --> J[⚡ Performance Optimization]
-    I --> K[🎨 UI/UX Excellence]
-    I --> L[🔧 Developer Experience]
-    
-    style A fill:#36BCF7,stroke:#333,stroke-width:2px,color:#fff
-    style E fill:#36BCF7,stroke:#333,stroke-width:2px,color:#fff
-    style I fill:#36BCF7,stroke:#333,stroke-width:2px,color:#fff
-```
-
-</div>
-
-## 💫 Let's Connect
-
-<div align="center">
-
-<p align="center">
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/your-profile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/your-handle">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-  <a href="https://your-portfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"/>
-  </a>
-  <a href="https://dev.to/your-username">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/>
-  </a>
-</p>
-
-### 💬 Random Dev Quote
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it's%20bad.&author=Cory%20House"/>
 
 ### 📊 Profile Views
 
