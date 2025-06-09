@@ -44,14 +44,9 @@ me.say_hi()
 
 ## 📊 GitHub Analytics
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Kohsuk3&custom_title=Kosuke's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=36BCF7&line=36BCF7&point=FFFFFF&area=true&hide_border=true"/>
+<!--START_SECTION:activity-->
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kohsuk3&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&text_color=FFFFFF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kohsuk3&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=FFFFFF"/>
-</div>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Kohsuk3&theme=tokyonight&hide_border=true&background=0D1117&stroke=36BCF7&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideLabels=FFFFFF"/>
+<!--END_SECTION:activity-->
 
 </div>
 
